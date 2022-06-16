@@ -1,0 +1,42 @@
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+#sttv {
+    color:green;
+    font-size:19px;
+}
+
+#sttx {
+    color:red;
+    font-size:19px;
+}
+
+#stto {
+    color: rgb(62, 9, 253);
+    font-size:19px;
+}
+
+#sele {
+    width: 30%;
+    height:40px;
+}
+#f1 {
+    margin-top:50px;
+}
+.manager-new {
+    text-align:center;
+    border: 2px solid rgb(22, 19, 19); 
+    margin-top: 20px;
+}
+.table{
+     margin-top: 10px;
+     margin-left: 150px !important;
+     width: 500px;
+     height:200px;
+}
+.manager h3{
+    margin-top: 100px;
+    margin-left: 300px;
+    color:black;
+}
